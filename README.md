@@ -3,7 +3,7 @@ Aplicação usando o _Eloquent_ como framework ORM com aplicação de filtro por
 
 |  Tela Pesquisa  | 
  ----------------- | 
-| <img src="TelaPesquisa.jpg" width="450" height="300" /> |
+| <img src="TelaPesquisa.jpg" width="550" height="300" /> |
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
